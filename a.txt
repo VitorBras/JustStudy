@@ -1,2 +1,3 @@
 Versão inicial do projeto
 Versão secundária do projeto
+Este arquivo foi editado no ramo master
